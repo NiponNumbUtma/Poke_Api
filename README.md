@@ -1,4 +1,4 @@
-# React + Vite
+# React + Vite + POKE-API a bref view about some Pokémon. 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
